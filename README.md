@@ -48,15 +48,6 @@ Ask: *"What evidence do I have for each objective?"* or *"Run a wiki health chec
 ### Prepare for Review
 Ask: *"Draft my year-end summary for Objective X"* or *"What gaps do I have?"*
 
-## Files in This Folder
-
-| File | What It Does |
-|------|--------------|
-| `ai-performance-review-system.md` | Full documentation of the pattern |
-| `BOOTSTRAP.prompt.md` | Interactive setup guide for LLMs |
-| `SCHEMA-TEMPLATE.md` | Template for configuring your LLM |
-| `README.md` | This file |
-
 ## Tips
 
 - **Document achievements within a week** — details fade fast
